@@ -15,6 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=gyuuuu&fontSize=90)
+## Introduction
 
+attanding Kookmin Univ &&
+backend developer of NeuroAssociate
+
+## Intersted in
+
+- Architecture : Well-designed architecture, MSA, Event-Driven ...
+- Concept : OOP
+- Cloud : AWS
+- CI/CD : Jenkins
+
+## Skills
+
+- Language : Javascript, Typescript, Python
+- Framework : Express, Nest
+- Database : Mysql
+- Deploy : AWS, Docker
+- Just one Experience : Go, Echo, Jenkins
+
+## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuuuu)](https://github.com/anuraghazra/github-readme-stats)
