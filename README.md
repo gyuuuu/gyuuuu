@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ## Introduction
 
-attanding Kookmin Univ &&
-backend developer of NeuroAssociate
+attanding Kookmin Univ
 
 ## Intersted in
 
