@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Introduction
 
-attanding Kookmin Univ
+attanding Kookmin Univ && Internship at acrossb
 
 ## Intersted in
 
